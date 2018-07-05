@@ -1,0 +1,92 @@
+LOCUS       U96156                  1698 bp    DNA     linear   INV 14-DEC-2001
+DEFINITION  Drosophila kikkawai putative amylase-related protein (AMYREL) gene,
+            complete cds.
+ACCESSION   U96156
+VERSION     U96156.3  GI:17744231
+KEYWORDS    .
+SOURCE      Drosophila kikkawai.
+  ORGANISM  Drosophila kikkawai
+            Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+REFERENCE   1  (bases 1 to 1698)
+  AUTHORS   Da Lage,J.L., Renard,E., Chartois,F., Lemeunier,F. and Cariou,M.L.
+  TITLE     Amyrel, a paralogous gene of the amylase gene family in Drosophila
+            melanogaster and the Sophophora subgenus
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 95 (12), 6848-6853 (1998)
+  MEDLINE   98284020
+REFERENCE   2  (bases 1 to 1698)
+  AUTHORS   Da Lage,J.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-APR-1997) Populations, Genetique et Evolution, Centre
+            National de la Recherche Scientifique, Avenue de la Terrasse, Gif
+            sur Yvette 91198, France
+REFERENCE   3  (bases 1 to 1698)
+  AUTHORS   Da Lage,J.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2001) Populations, Genetique et Evolution,
+            C.N.R.S., Avenue de la Terrasse, Gif sur Yvette cedex 91198, France
+  REMARK    Sequence update by submitter
+REFERENCE   4  (bases 1 to 1698)
+  AUTHORS   Da Lage,J.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2001) Populations, Genetique et Evolution,
+            C.N.R.S., Avenue de la Terrasse, Gif sur Yvette cedex 91198, France
+  REMARK    Sequence update by submitter
+COMMENT     On Dec 14, 2001 this sequence version replaced gi:17388911.
+FEATURES             Location/Qualifiers
+     source          1..1698
+                     /organism="Drosophila kikkawai"
+                     /db_xref="taxon:30033"
+     mRNA            join(<81..737,808..>1635)
+                     /gene="AMYREL"
+                     /product="putative amylase-related protein"
+     gene            <81..>1635
+                     /gene="AMYREL"
+     CDS             join(81..737,808..1635)
+                     /gene="AMYREL"
+                     /codon_start=1
+                     /product="putative amylase-related protein"
+                     /protein_id="AAC39106.3"
+                     /db_xref="GI:17744232"
+                     /translation="MIKFALALTLCLAGASLSLAQHNPQWWGNRNTIVHLFEWKWSDI
+                     AEECETFLAPRGFAGVQVSPVNENIISAGRPWWERYQPISYKLTTRSGNEEEFADMVR
+                     RCNDVGIRIYVDVLLNHMSGDFDGVAVGTAGTEAEPSKKSFPGVPYSAQDFHPSCEIT
+                     DWNDRFQVQQCELVGLKDLNQHSDYVRSKLIEFLDHLIELGVAGFRVDAAKHMAAEDL
+                     EYIYGSLSNLNIEHGFPHNARPFIFQEVIDHGHETVSREEYNGLGAVTEFRFSEEIGN
+                     AFRGNNALKWLQSWGTDWGFLSSEQALTFVDNHDNQRDMGSVLNYKSPRQYKMATAFH
+                     LAYPYGISRVMSSFAFDDHDTPPPQDAQENIISPEFDDDGACVNGWICEHRWRQIYAM
+                     VGFKNAVRDTQLSEWWDNGDNQISFCRGNKGFLAVNNNQYDLSQELNTCLPAGEYCDV
+                     ISGSLIDGACTGKSVTVNEHGYGYIHIGSDDFDGVLALHVNAKV"
+BASE COUNT      370 a    473 c    479 g    376 t
+ORIGIN      
+        1 aagcaaatcc gcgataaaat tgccttgggg cgtataaaag gagccggggc tccggagatt
+       61 aggcacagtt ttttacggtc atgatcaagt tcgctttggc cctgacgctc tgcctggcgg
+      121 gtgccagcct ttcgctggcc cagcacaatc cccagtggtg gggcaaccgc aacaccatcg
+      181 tccatctctt cgagtggaaa tggtcggaca ttgccgagga gtgcgagacg ttcctggcac
+      241 cgcgcggctt tgccggcgtc caagtgagtc ccgtgaatga gaacatcatc tcggcgggtc
+      301 gtccctggtg ggagaggtat cagcccatct cctacaagct gaccacacgc tctggcaacg
+      361 aggaagagtt cgccgacatg gttcgtcgct gcaacgatgt gggcattcgc atctacgtcg
+      421 acgttctcct gaatcacatg tccggtgact ttgatggcgt ggccgtgggc acagccggca
+      481 ctgaggcaga gccttccaag aaatctttcc caggtgtgcc ttacagcgcc caggacttcc
+      541 atcccagctg tgagatcacc gactggaacg atcgcttcca ggtgcagcag tgcgagctgg
+      601 ttggcctcaa ggatctgaat cagcacagcg attatgtgag gagcaagctg attgagttcc
+      661 tggatcacct catcgaactg ggcgttgccg gtttccgtgt ggatgccgcc aagcacatgg
+      721 ccgccgagga tctggaggtg agtttgctat aaggagaaga acattgtaga acttacggaa
+      781 cccttatcat ggttaccttt tccttagtac atctacggca gcctgagcaa cctgaacatc
+      841 gagcatggct tcccccacaa tgccaggccc ttcatcttcc aggaggtgat cgatcatggc
+      901 cacgagaccg tgtcccgtga ggaatacaac ggtctgggtg ccgtcaccga gttccgcttc
+      961 tccgaggaga tcggcaatgc cttccgtgga aacaatgccc tgaagtggct gcaaagctgg
+     1021 ggcaccgact ggggcttcct gagctccgag caggccttga cctttgtgga taaccatgac
+     1081 aaccagcgcg atatgggatc cgtgctgaac tacaagtcgc ccaggcagta caagatggcc
+     1141 accgccttcc atttggccta cccctatggc atcagccgtg tgatgagctc ctttgccttc
+     1201 gatgatcacg ataccccgcc gccgcaggat gcccaggaga atatcatttc tccggagttc
+     1261 gatgatgatg gagcctgtgt gaatggctgg atctgcgagc accgctggcg ccagatctac
+     1321 gccatggtgg gcttcaagaa cgccgtgcgt gacacccagc tgtccgagtg gtgggacaat
+     1381 ggcgacaacc agatctcctt ctgccgcggc aacaagggct tcctggccgt caacaacaac
+     1441 cagtacgatc tgtcccagga gctcaacacc tgcctgccgg ccggtgagta ctgcgacgtg
+     1501 atctcgggca gcctgatcga tggcgcctgc accggcaagt ccgtcactgt gaacgagcat
+     1561 ggctatggtt atatccacat cggatcagat gacttcgatg gagtgctggc cctgcatgtg
+     1621 aatgccaaag tttaagtagt ttttgttttg ggtaacacag aaatctgggc tttattttgt
+     1681 ctcaaattac aataaaaa
+//

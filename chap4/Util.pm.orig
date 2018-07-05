@@ -1,0 +1,77 @@
+################################################################
+### Copyright (c) 2002 Rex A. Dwyer.
+### Distributed with the book
+### Genomic Perl: From Bioinformatics Basics to Working Code
+### copyright (c) 2002 Cambridge University Press
+### under terms described therein.
+################################################################
+package Util;
+#########################################
+##  A library of simple utility functions.
+#########################################
+require Exporter;
+@ISA = qw(Exporter);
+@EXPORT = qw(max min sum lg log10 pow round);
+
+use strict;
+
+#########################################
+sub max {
+##  Determines the largest of any positive number of numerical arguments.
+##  RETURNS: the largest argument.
+#########################################
+	my ($m,@l) = @_;
+	foreach (@l) { $m=$_ if $_>$m };
+	$m;
+}
+
+#########################################
+sub min {
+##  Determines the smallest of any positive number of numerical arguments.
+##  RETURNS: the smallest argument.
+#########################################
+	my ($m,@l) = @_;
+	foreach (@l) { $m=$_ if $_<$m };
+	$m;
+}
+
+#########################################
+sub sum {
+##  Determines the sum of any positive number of numerical arguments.
+##  RETURNS: the sum.
+#########################################
+	my ($s,@l) = @_;
+	foreach (@l) { $s += $_ };
+	$s;
+}
+
+#########################################
+sub lg {
+##  RETURNS: the base-2 logarithm of its numerical argument.
+#########################################
+	log(shift)/log(2.0);
+}
+
+#########################################
+sub log10 {
+##  RETURNS: the base-10 logarithm of its numerical argument.
+#########################################
+	log(shift)/log(10.0);
+}
+
+#########################################
+sub pow { 
+##  Raises argument $x to power of argument $y.
+##  RETURNS: result.
+#########################################
+	my ($x,$y) = @_;
+	exp($y * log($x));
+}
+
+#########################################
+sub round { 
+##  Rounds its argument to nearest integer.
+##  RETURNS: rounded result.
+#########################################
+	int(0.5+shift);
+}

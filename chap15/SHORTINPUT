@@ -1,0 +1,13 @@
+($maxSatLength,$minSatLength, $minSatRepeats,$epsilon)=(10,5,5,0.20);
+aggtc
+agtca
+aggtc
+aggta
+aggtca
+agggtc
+aggc
+aggt
+agtc
+cggtc
+acgtc
+ggat

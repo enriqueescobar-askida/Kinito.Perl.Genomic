@@ -1,0 +1,71 @@
+
+IDENTIFIERS
+
+dbGSS Id:       3567488
+GSS name:       1008081F01.x1
+GenBank Acc:    BH808615
+GenBank gi:     20329114
+
+CLONE INFO
+Plate:          1008081	Column:	11
+DNA type:       Genomic
+
+PRIMERS
+
+SEQUENCE
+                GGGGCTCTCCCATTTTTCGGCCGTATGACCGGATACACCTGTGGTTCCCAAGACGGGCCG
+                AACGACTATGATACTGTGGCCCATGGTAGTTTCGTCTCTGCAGTAGCAGTACGCCTATTC
+                ACAGTTTCCTCCGAAAGTTTGATATTTTCTCTCTTTAGTCCTAGTTTGAAAACCCTATTT
+                TTTCAAATGATTTTCATCTTTCAAAGATAAATTAATTCG
+
+Entry Created:  Apr 25 2002
+Last Updated:   Apr 25 2002
+
+COMMENTS
+                Possible ligation site of ends cut by 2 different
+                endonucleases. Reverse complemented post-ligation sequence
+                from source sequence.
+
+LIBRARY
+dbGSS lib id:   3462
+CLASS:          transposon-tagged
+Lib Name:       1008 - RescueMu Grid I
+Organism:       Zea mays
+Cultivar:       mixed background W23/A188/B73
+Organ:          leaf
+Tissue type:    leaf
+Develop. stage: adult
+Lab host:       DH10B
+Vector:         RescueMu (engineered from pBlueScript backbone)
+R. Site 1:      BamHI
+R. Site 2:      BglII
+Description:    RescueMu is a 4.9 kb, modified maize Mu transposon designed
+                to allow plasmid rescue from total genomic DNA. Mu elements
+                insert preferentially into transcription units. For more
+                information on RescueMu, go to the web site
+                www.zmdb.iastate.edu and follow the links for 'RescueMu.'
+                Grid I was grown at Berkeley in 2001. DNA was extracted from
+                leaf punches, double digested using BamHI and BglII, and
+                ligated to form circular plasmids. DH10B cells were
+                transformed and then screened on LB plates with ampicillin.
+
+SUBMITTER
+Name:           Walbot V
+Lab:            Department of Biological Sciences
+Institution:    Stanford University
+Address:        855 California Ave, Palo Alto, CA 94304, USA
+Tel:            650 723 2227
+Fax:            650 725 8221
+E-mail:         walbot@stanford.edu
+
+CITATIONS
+Title:          Maize genomic sequences found using engineered RescueMu
+                transposon.
+Authors:        Walbot,V.
+Year:           2001
+Status:         Unpublished
+
+
+MAP DATA
+
+||

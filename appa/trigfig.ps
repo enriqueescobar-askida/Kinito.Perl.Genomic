@@ -1,0 +1,53 @@
+%!
+%%BoundingBox: 0 0 144 144
+
+/skale 100 def
+/pt {skale div} def
+/cot {dup cos exch sin div} def
+/roman /Times-Roman findfont 11 pt scalefont def
+/italic /Times-Italic findfont 11 pt scalefont def
+/symbol /Symbol findfont 11 pt scalefont def
+/courier /Courier findfont 11 pt scalefont def
+skale dup scale
+1.75 1.25 translate
+
+/x 30 sin neg def
+/y 30 cos neg def
+/count 17 def
+/pi 3.14159 def
+
+/h 360 count div cot 0.5 mul def
+/cx x 2.0 div h y mul sub def
+/cy y 2.0 div h x mul add def
+
+/rad 0.5 180 count div sin div def
+/theta 360 count div def
+%/alpha cy cx atan2 def
+
+1 pt setlinewidth
+newpath 0 0 moveto x y lineto cx cy lineto closepath stroke
+newpath cx cy moveto x 2 div y 2 div lineto stroke
+roman setfont x 2 div y 2 div moveto 8 pt neg 0 rmoveto (1) show
+
+italic setfont 
+	cx x 2 div add 2 div 
+	cy y 2 div add 2 div 
+  moveto -3 pt 3 pt rmoveto (h) show
+
+symbol setfont 
+	cx x add 2 div 
+	cy y add 2 div 
+  moveto 8 pt 0 rmoveto (q/2) show
+
+courier setfont
+      cx 5 pt add cy moveto (($cx,$cy)) show
+      -60 pt 0 moveto (($rx,$ry)) show
+      x -60 pt add y moveto (($lx,$ly)) show
+	cx 2 div 
+	cy 2 div 
+	moveto 3 pt 0 rmoveto ($rad) show
+	
+showpage
+
+
+

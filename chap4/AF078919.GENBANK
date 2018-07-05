@@ -1,0 +1,38 @@
+LOCUS       AF078919                 154 bp    DNA     linear   PLN 29-OCT-1998
+DEFINITION  Zea mays centromeric repeat CentC-154b, complete sequence.
+ACCESSION   AF078919
+VERSION     AF078919.1  GI:3694838
+KEYWORDS    .
+SOURCE      Zea mays.
+  ORGANISM  Zea mays
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACC
+            clade; Panicoideae; Andropogoneae; Zea.
+REFERENCE   1  (bases 1 to 154)
+  AUTHORS   Ananiev,E.V., Phillips,R.L. and Rines,H.W.
+  TITLE     Chromosome-specific molecular organization of maize (Zea mays L.)
+            centromeric regions
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 95 (22), 13073-13078 (1998)
+  MEDLINE   99007269
+REFERENCE   2  (bases 1 to 154)
+  AUTHORS   Ananiev,E.V., Rines,H.W. and Phillips,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-1998) Agronomy and Plant Genetics, University of
+            Minnesota, 1991 Buford Circle, St. Paul, MN 55108, USA
+FEATURES             Location/Qualifiers
+     source          1..154
+                     /organism="Zea mays"
+                     /cultivar="Seneca 60"
+                     /db_xref="taxon:4577"
+                     /chromosome="9"
+                     /map="centromere"
+     repeat_region   1..154
+                     /note="CentC-154b"
+                     /rpt_family="CentC"
+                     /rpt_type=tandem
+BASE COUNT       45 a     31 c     42 g     36 t
+ORIGIN      
+        1 ggttccggtg gcaaaaactc gtgctttgta tgcaccgaca cccgttttcg gaatgggtga
+       61 cgtgcgacaa cgaaattgcg agaaaccacc ccaaacatga gttttggacc taaagtagtg
+      121 gattgggcat gttcgttgtg aaaaacgaag aaat
+//

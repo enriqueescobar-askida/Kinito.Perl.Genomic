@@ -1,0 +1,179 @@
+LOCUS       NM_079824               4003 bp    mRNA    linear   INV 14-DEC-2001
+DEFINITION  Drosophila melanogaster Dopamine receptor 2 (DopR2), mRNA.
+ACCESSION   NM_079824
+VERSION     NM_079824.1  GI:17738276
+KEYWORDS    .
+SOURCE      fruit fly.
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Arthropoda; Tracheata; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila.
+REFERENCE   1  (bases 1 to 4003)
+  AUTHORS   Feng,G., Hannan,F., Reale,V., Hon,Y.Y., Kousky,C.T., Evans,P.D. and
+            Hall,L.M.
+  TITLE     Cloning and functional characterization of a novel dopamine
+            receptor from Drosophila melanogaster
+  JOURNAL   J. Neurosci. 16 (12), 3925-3933 (1996)
+  MEDLINE   96242088
+REFERENCE   2  (bases 1 to 4003)
+  AUTHORS   Han,K.A., Millar,N.S., Grotewiel,M.S. and Davis,R.L.
+  TITLE     DAMB, a novel dopamine receptor expressed specifically in
+            Drosophila mushroom bodies
+  JOURNAL   Neuron 16 (6), 1127-1135 (1996)
+  MEDLINE   96258265
+   PUBMED   8663989
+REFERENCE   3  (bases 1 to 4003)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+  MEDLINE   20196006
+   PUBMED   10731132
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from U34383.1.
+FEATURES             Location/Qualifiers
+     source          1..4003
+                     /organism="Drosophila melanogaster"
+                     /strain="Canton S"
+                     /db_xref="taxon:7227"
+                     /chromosome="3"
+                     /map="99B7-99B8"
+                     /clone="clone g68"
+                     /tissue_type="head"
+                     /clone_lib="Canton-S cDNA library"
+                     /dev_stage="adult"
+     gene            1..4003
+                     /gene="DopR2"
+                     /note="DAMB; DopD1; DopR99B; Dar2; CG7569; CG18741;
+                     CT8423"
+                     /db_xref="FLYBASE:FBgn0015129"
+                     /db_xref="LocusID:43484"
+     CDS             108..1727
+                     /gene="DopR2"
+                     /codon_start=1
+                     /db_xref="FLYBASE:FBgn0015129"
+                     /db_xref="LocusID:43484"
+                     /product="Dopamine receptor 2"
+                     /protein_id="NP_524548.1"
+                     /db_xref="GI:17738277"
+                     /translation="MVDDNGSSPEVEGAEGAGAPLLALLRVDGLNQTQTRSPSPSFFG
+                     SYNISEDVYFYFNGLPTSTELVLNATTSATSATLSPAMVATGGGGTTTPEPDLSEFLE
+                     ALPNDRVGLLAFLFLFSFATVFGNSLVILAVIRERYLHTATNYFITSLAVADCLVGLV
+                     VMPFSALYEVLENTWFFGTDWCDIWRSLDVLFSTASILNLCVISLDRYWAITDPFSYP
+                     MRMTVKRAAGLIAAVWICSSAISFPAIVWWRAARDGEMPAYKCTFTEHLGYLVFSSTI
+                     SFYLPLLVMVFTYCRIYRAAVIQTRSLKIGTKQVLMASGELQLTLRIHRGGTTRDQQN
+                     QVSGGGGGGGGGGGGGGSLSHSHSHSHHHHHNHGGGTTTSTPEEPDDEPLSALHNNGL
+                     ARHRHMGKNFSLSRKLAKFAKEKKAAKTLGIVMGVFIICWLPFFVVNLLSGFCIECIE
+                     HEEIVSAIVTWLGWINSCMNPVIYACWSRDFRRAFVRLLCMCCPRKIRRKYQPTMRSK
+                     SQRFATRRCYSTCSLHGIQHVRHNSCEQTYI"
+     misc_feature    480..1034
+                     /note="7tm_1; Region: 7 transmembrane receptor (rhodopsin
+                     family)"
+     misc_feature    1365..1529
+                     /note="7tm_1; Region: 7 transmembrane receptor (rhodopsin
+                     family)"
+BASE COUNT      915 a   1145 c   1046 g    897 t
+ORIGIN      
+        1 ccgagcagca actgccgggg aaattggaac aggaacataa tcaggcacag gaacagcaac
+       61 tgaaacaggg actcgcgtca gctgcagcga cacagcactg agttgcaatg gtggacgaca
+      121 atggctcgtc gccggaagtg gaaggagcgg aaggagccgg cgcgcccctc ctggcgctcc
+      181 tccgggtgga tgggctcaat cagacgcaga cccgttctcc ctcgccgtcg ttcttcggca
+      241 gttacaacat ctccgaggat gtctacttct acttcaatgg gctgcccacg agcacggagc
+      301 tcgtgctgaa cgccaccacc tccgccacca gcgccacctt gagtcctgcg atggtggcaa
+      361 caggaggtgg cggcaccacc acgccggaac ccgatctctc cgagttcctg gaggcgctgc
+      421 ccaacgaccg tgtgggcctg ctggccttcc tcttcctgtt ctccttcgct acggttttcg
+      481 gcaactcact ggtcatcctc gccgtcatcc gggagcggta cttgcacacg gccaccaact
+      541 acttcatcac cagcctggcc gtggccgact gcctcgtggg cctggtggtc atgcccttct
+      601 cagcgctcta cgaggtgctg gagaacacgt ggttcttcgg cacggactgg tgcgacatct
+      661 ggcggtccct ggacgtgctc ttcagcacag cctccatact gaatctgtgc gtgatctcac
+      721 tcgaccgcta ctgggccatc acggatccct ttagctatcc catgaggatg acggtcaagc
+      781 gagcggccgg tctgatagcc gctgtatgga tctgctccag cgccattagc tttccggcca
+      841 ttgtgtggtg gcgagcggcg agggatggcg agatgcccgc ctacaagtgc accttcaccg
+      901 agcacctggg ctacctagtc ttctcgtcga cgatatcctt ctacctgccg cttctagtga
+      961 tggtcttcac ctactgtcgc atctacaggg cagccgtcat ccagacgaga tctcttaaga
+     1021 ttggaaccaa gcaggtgctc atggcctccg gggaactgca gctcacattg cgtattcatc
+     1081 gtggtggcac tacgcgggat cagcaaaacc aggtctccgg aggaggaggt ggtggaggag
+     1141 gaggtggcgg tggcggagga tctctgagcc actcgcactc ccattcgcac catcatcatc
+     1201 acaatcacgg tggtggcacg acgacctcca cgccggagga gccggatgat gagccgctat
+     1261 ccgctctgca taacaacgga ctggcacgcc atcggcacat gggcaagaac ttctcgctgt
+     1321 ccaggaaact ggcgaagttc gccaaggaga agaaggcggc caagacgctg ggcatcgtga
+     1381 tgggcgtgtt catcatctgc tggctgccct tcttcgtggt caacctgctg tccgggttct
+     1441 gcatcgagtg catcgagcac gaggagatcg tctcggcaat cgtcacctgg ctcggctgga
+     1501 tcaactcctg catgaatcct gtgatttacg cctgctggag cagggacttt cgcagggcct
+     1561 ttgtgcgtct gctgtgcatg tgctgtccac gcaagattcg ccgcaagtac cagcccacga
+     1621 tgcgttccaa gtcgcagaga ttcgcgacgc ggcgctgcta ctcgacctgc tcgctgcacg
+     1681 gcattcagca cgtgcgacac aactcctgcg agcagaccta catatagttt agcgtagatt
+     1741 tagttgacaa tgattaaggc gccgagccac gccccctagc gccctccatt tgtccgtaag
+     1801 tcaatggcaa gtgtcacgtg gccgctgcaa tggtggccgc ctccacctcc ttcggctacc
+     1861 actcggtgaa ccagatcgac cggacgctca tgtgacggca gctgagcagt tgcagcacct
+     1921 gcagcggggg cagcaactgc ggcggatcac ggtccgccca tcaccagcac cactcctcgg
+     1981 gcacggccac gccctcgtcc tcgcagcgat cctgcactag atgccagagc ttccaccgcc
+     2041 accaccaccg ctccaggcgc cgcagctcgg ggatgcagat gcgcggggac tacaactcca
+     2101 ccacggcggt gaacagcgct ctggccaaga ccatagtcac catcagtgct cctccggtgg
+     2161 cggctgcctc ggccagttcg ctgcacctgg gcgtcggagg acgtccttcc tcggtgtcca
+     2221 ccctgacaat cgcctcggtg ccgcccacct tgagtggcag tggcagtcca ggaggctctg
+     2281 tgagcggggc cactactccg ctggcaccca gtctcaaggc cctgaccccg ggaccctcca
+     2341 actcgtcggg tcaccacgtg tcttttcatg cccatgacgg gcatgaagcg gttgcgcagt
+     2401 cgaacgtctc gctgggatcg accaatggaa tcatcagcac tgtggccgga gcggacacca
+     2461 cctcggcgcc cttgctgatc gacgccagcg aggatcaggt gcagatgcgg aaccaacacc
+     2521 gaatcctgga gcagtgccag agtgtccaga gccaaataac tacgctgggc gacgtggagg
+     2581 acgacgacga ggaggtcagc gacagtgaga gcgagagcat cggactcgcc ctggtggtga
+     2641 ccacgcctca actggagagc cagcccgtgg aggcatcgag ttcctccagc tcctcggtca
+     2701 agtaaactca gcaacagaac cacgaaaaca agcccagaca ttagctttaa gattcaacca
+     2761 tatacatatg tgtgtttatc agaagcggtg gtcgatggaa aggcaatact ttggacagtt
+     2821 ctaagccagt cagaattcac tttgttgcct attgattatt ttactagctc ttcaggtttc
+     2881 aataaggata tgaactgaat tttattatca tccccccagc aaagatttgt gtatgtatgt
+     2941 atgttatttt taccttcaag cgaatcaata tagctcaatc cgaattgcaa ttggcttaga
+     3001 ggtgtccatt gagtttcgcc agcccattgg tcgacccatt cgaagtgtgt acatagcaat
+     3061 ctagactcgc ctagccactc attagcttat cgatcggtga tagaacacta tgcaacagaa
+     3121 aatcctccct atatcaacac ccaaaaacac ggggttgcag ttgcagttgc aggcggtagt
+     3181 tgcatagtgg gattagtgta actgttagct ctcatatctt agatcttcca ttatgtagtt
+     3241 gttcgttccg tttcgttccg ttccgttctg taaatgtttc aaacgtctag caattgaatt
+     3301 caaaaagcta cgtcttcaac ctgtccaagt acctgactct ctgaaatcca agaagatact
+     3361 gtgcatgtat atagcttaac tttgactcct ctgtcgctca aaactagctt tatgttactc
+     3421 gaaactcgct tgttcgttcg ttatcaactg aaattctacg ggtgcaatat gaatttatac
+     3481 caacttaagg actcgaacaa tcaggcaaac aggcttcaag accagttccc agtcgtagga
+     3541 gatcccaggt acaaagtcat aatcactgca attgttggct agcttaatta gcccatcctc
+     3601 cattacgttc tttggactac atatattacc aatataggca tatggaatag ggtgaatttt
+     3661 aattgtactt gtgagacagc cgaaagttag gaaatccggc agctttaatg aattaatccc
+     3721 tcaaaaggct cgcccatcca cttctgtacc actctacatg tatgcttatg atggctaagc
+     3781 tcctccgatt ccgattttgc aataattaat gtgtgcaatt aggattgatt gccccgcccc
+     3841 cacaaggtcg gcgaataaat cgagtagaag aatggggctc taatgcggga aaaactaata
+     3901 acaatggcga gacgtcagtt taatggatga gtaggaagaa gccatggcaa aatgttgctc
+     3961 attgttttca aaaaacaaac aaagcgaaat ggatggtcca agg
+//

@@ -1,0 +1,39 @@
+GenPept file format
+
+Here is an example of a GenPept file of a human beta globin protein. For
+information on the GenPept file format go to the National Center for
+Biotechnology Information.
+  ------------------------------------------------------------------------
+
+LOCUS       1330312       146 aa                              26-APR-1994
+DEFINITION  Beta globin protein.
+ACCESSION   1330312
+PID         g1330312
+DBSOURCE    EMBL: locus A18171, accession A18171
+KEYWORDS    .
+SOURCE      human.
+  ORGANISM  Homo sapiens
+            Eukaryotae; mitochondrial eukaryotes; Metazoa; Chordata;
+            Vertebrata; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 146)
+  AUTHORS   .
+  TITLE     PROTEIN PRODUCTION IN YEAST
+  JOURNAL   Patent: WO 9113158-A 05-SEP-1991;
+
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Homo sapiens"
+     Protein         1..146
+                     /product="Beta globin protein"
+     CDS             1..146
+                     /coded_by="A18171:1..441"
+ORIGIN
+        1 vhltpeeksa vtalwgkvnv devggealgr llvvypwtqr ffesfgdlst pdavmgnpkv
+       61 kahgkkvlga fsdglahldn lkgtfatlse lhcdklhvdp enfrllgnvl vcvlahhfgk
+      121 eftppvqaay hkvvagvana lahkyh
+//
+
+  ------------------------------------------------------------------------
+
+
